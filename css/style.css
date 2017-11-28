@@ -1,0 +1,59 @@
+body
+{
+    margin: 0;
+    width: 130px;
+    height: 75px;
+        font-family: verdana;
+        font-weight: bold;
+        font-size: small;
+}
+#gadgetContent
+{
+    margin-top: 20px;
+    width: 130px;
+    vertical-align: middle;
+    text-align: center;
+        overflow: hidden;
+}
+
+#topLeft
+{
+    width: 4px;
+    height: 4px;
+    background: url(../images/settings_corner_top_left.png);
+    overflow: visible;
+    white-space: nowrap;
+}
+#topMiddle
+{
+	width: 100%;
+	background: url(../images/settings_box_top.png);
+}
+#topRight
+{
+	width: 4px;
+	height: 4px;
+	background: url(../images/settings_corner_top_right.png);
+    overflow: visible;
+    white-space: nowrap;
+}
+#settingsRow
+{
+     background-color: #ffffff;
+     height: 197px;
+}
+#settingsLeft
+{
+    width: 4px;
+    background: url(../images/settings_box_left.png) repeat-y;
+    overflow: visible;
+    white-space: nowrap;
+}
+#settingsMiddle
+{
+     text-align: center;
+     padding: 20px;
+}
+#settingsRight
+{
+    width: 4px;

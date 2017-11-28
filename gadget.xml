@@ -3,7 +3,7 @@
   <name>Reindeer</name>
   <version>1.0.0.0</version>
   <author name="Lalit Som">
-    <info url="https://github.com/lalitsom/Reindeer" text="Github"/>
+    <info url="github.com/lalitsom/Reindeer" text="Github"/>
     <logo src="images/logo.png" />
   </author>
   <copyright>&#169; Lalit Som.</copyright>
