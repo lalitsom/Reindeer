@@ -1,2 +1,3 @@
 # Reindeer
-:clock:  Reindeer: A Routine Reminder
+⏰  Reindeer: A Routine Reminder
+Gadget for Windows 7 

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<gadget>
+  <name>Reindeer</name>
+  <version>1.0.0.0</version>
+  <author name="Lalit Som">
+    <info url="https://github.com/lalitsom/Reindeer" text="Github"/>
+    <logo src="images/logo.png" />
+  </author>
+  <copyright>&#169; Lalit Som.</copyright>
+  <description>"Reindeer": A Routine Reminder </description>
+  <icons>
+    <icon height="48" width="48" src="images/logo.png" />
+  </icons>
+  <hosts>
+    <host name="sidebar">
+      <base type="HTML" apiVersion="1.0.0" src="index.html" />
+      <permissions>Full</permissions>
+      <platform minPlatformVersion="1.0" />
+      <defaultImage src="images/logo.png" />
+    </host>
+  </hosts>
+</gadget>
